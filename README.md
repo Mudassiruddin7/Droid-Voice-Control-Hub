@@ -1,4 +1,4 @@
-![Computer](https://i.pinimg.com/originals/dd/84/e7/dd84e766cf7f4d290eb0bcca94f73305.gif)
+![Computer](https://cdn.theatlantic.com/thumbor/3MAjoXVG0z2fTzgvNtR4XShxLiw=/0x0:2000x1125/1600x900/media/img/mt/2023/06/Chatbot_Hi/original.gif)
 
 # _**Droid: All in One Gesture & Voice Control Hub**_
 Droid revolutionizes human-computer interaction by serving as an all-in-one hub for gesture and voice control. Leveraging cutting-edge Machine Learning and Computer Vision algorithms, it enables seamless navigation through dynamic hand gestures and voice commands. Experience intuitive computing without direct contact, unlocking a new era of touchless, efficient interaction.
@@ -93,16 +93,16 @@ Now you are ready to use jupyter on this environment and start with your project
 9. 	conda install pywin32
 10.	To Run the Code, Type python Droid.py with the voice assisstant
 11.	To run only Gesture Recognition without the voice assisstant:
-	Uncomment last 2 lines of Code in the file `Gesture_Controller.py`
+	Uncomment last 2 lines of Code in the file Gesture_Controller.py
 12.	To Run the Code, Type python Gesture_Controller.py
 
 
 **Note:**Please follow the above sequence if you would like to execute and the files require good system requirements to run.
 
 # _**Data Description**_
-The dataset was downloaded from a kaggle data repository. The dataset has been pre-processed and cleaned to remove any bias while training. Dataset consists of more than 2 lakh data entries and around47 columns. Some of the important features present in the dataset, Severity, street, city, weather_timestamp, Country, Start_lat, Start_Log, End_lat, End_Lon and etc. These features help us to know which state or country had most number of accidents over the span of years. This analysis gives and overview of how the traffic in the state or country is like and necessary actions to be taken in future.
+No Dataset was used in this voice control hub project 
 
-![Data](https://media.tenor.com/kVaqVGLfYZUAAAAC/i-have-the-data-data.gif)
+![Data](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlsYmtndXJ1ZnNhMm9iZHJzYWtzcHBrcjlvdGxmM291cXA5MTRsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)
 
  # _**Issues Faced.**_
 1. We might face an issue while installing specific libraries.
